@@ -6,5 +6,101 @@
   "contato": "+351 962436803",
   "email": "francilenesilva.fps10@gmail.com",
   "linkedin": "https://www.linkedin.com/in/francilene-silva/",
-  "github": "https://github.com/Fraanps"
+  "github": "https://github.com/Fraanps",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Java",
+        "logo": "assets/img/icons/tools/java.svg"
+      },
+      {
+        "name": "Selenium",
+        "logo": "assets/img/icons/tools/Selenium.svg"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "assets/img/icons/tools/js.svg"
+      },
+      {
+        "name": "Cypress",
+        "logo": "assets/img/icons/tools/Cypress-Light.svg"
+      },
+      {
+        "name": "Git",
+        "logo": "assets/img/icons/tools/git.svg"
+      },
+      {
+        "name": "GitHub",
+        "logo": "assets/img/icons/github-icon.svg"
+      },
+      {
+        "name": "Postgresql",
+        "logo": "assets/img/icons/tools/PostgreSQL-Dark.svg"
+      },
+      {
+        "name": "Postman",
+        "logo": "assets/img/icons/tools/Postman.svg"
+      },
+      {
+        "name": "Postman",
+        "logo": "assets/img/icons/tools/Gherkin-Dark.svg"
+      }
+    ],
+    "softSkills": [
+      "Facilidade de Aprendizado",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ],
+  },
+  "education": [
+    {
+      "title": "Engenharia de Software com ênfase em Qualidade e Teste de Software",
+      "period": "Nov 2024 - Set 2025",
+      "type":"Anhanguera Educacional - Pós-graduação"
+    },
+    {
+      "title": "Análise e Desenvolvimento de Sistemas",
+      "period": "Mar 2022",
+      "type": "Universidade Grande Dourados - Graduação"
+    }
+  ],
+  "languages": [
+    "Português BR (nativo)",
+    "Inglês (básico)"
+  ],
+  "portfolio": [
+    {
+      "name": "Projeto de automação de testes de API com Cypress",
+      "url": "https://github.com/Fraanps/restful-booker-tests-cypress.git",
+      "github": true
+    },
+    {
+      "name": " Projeto de testes E2E com cypress",
+      "url": "https://github.com/Fraanps/ConduitRealWorld-tests.git",
+      "github": true
+    },
+    {
+      "name": "Projeto de testes E2E com Selenium",
+      "url": "https://github.com/Fraanps/Selenium-with-java.git",
+      "github": true
+    },
+    {
+      "name": "Projeto de automação de testes E2E com robot",
+      "url": "https://github.com/Fraanps/robot.git",
+      "github": true
+    }
+  ],
+  "Experience": [
+    {
+      "name": "Empregada de Escritório",
+      "period": "Jan 22 - Current",
+      "description": "Gestão de Equipe, Atendimento ao Cliente e Operações da loja"
+    },
+    {
+      "name": "Estagio - Instrutora de Informática | Escola Concretta (Brasil)",
+      "period": "Mai 2019 - Out 2019",
+      "description": "Auxílio aos alunos nos cursos administrados online, correção de provas e trabalhos, agendamento de aulas, report do desenvolvimento dos alunos"
+    }
+  ]
 }

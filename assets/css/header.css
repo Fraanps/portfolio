@@ -77,6 +77,15 @@
     background-image: url("/assets/img/icons/email.svg");
 }
 
+.information .github-head::before {
+    background-image: url("/assets/img/icons/github-icon-head.svg");
+}
+.information .linkedin::before {
+    background-image: url("/assets/img/icons/LinkedIn.svg");
+}
+
+
+
 @media only screen and (min-width: 768px) {
     .header {
         display: grid;
